@@ -1,0 +1,29 @@
+# dependências
+node_modules
+
+# build
+dist
+build
+
+# versionamento
+.git
+.gitignore
+
+# docker 
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# ambiente
+.env
+.env.*
+
+# logs
+npm-debug.log
+
+# IDE / editor
+.vscode
+.idea
+
+# cache
+.cache
